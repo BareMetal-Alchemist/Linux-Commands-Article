@@ -14,11 +14,11 @@ I want you to imagine your average computer experience. You most likely use a mo
 
 This is the modern-day framework for the average user experience when it comes to personal computers. While convenient, let’s take a look at a different scenario.
 
-> Picture you work as a member of an IT Team and are required to do a handful of tasks in a timely manner. This could be anything from:
->
-> - Updating software  
-> - Troubleshooting services  
-> - Responding to cybersecurity incidents  
+ Picture you work as a member of an IT Team and are required to do a handful of tasks in a timely manner. This could be anything from:
+
+ - Updating software  
+ - Troubleshooting services  
+ - Responding to cybersecurity incidents  
 
 Utilizing a mouse and navigating between windows is convenient but now you have to:
 
